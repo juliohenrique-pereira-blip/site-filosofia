@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Composição gráfica para o problema Frege-Geach</title>
+  <desc id="desc">Painel editorial abstrato em roxo, vermelho, creme e laranja com os nomes Frege e Geach.</desc>
+  <rect width="1600" height="900" fill="#5d1eb4"/>
+  <circle cx="1350" cy="125" r="320" fill="#ed2426"/>
+  <path d="M0 620 C180 450 340 830 605 610 S1040 370 1600 650 V900 H0Z" fill="#3b185f"/>
+  <circle cx="190" cy="710" r="172" fill="none" stroke="#f8bf28" stroke-width="38"/>
+  <rect x="1070" y="468" width="380" height="250" rx="0" fill="#ffc7df"/>
+  <rect x="1135" y="527" width="252" height="132" fill="#fff9ed"/>
+  <path d="M680 116 L977 116 L977 170 L680 170Z" fill="#f48140"/>
+  <text x="111" y="285" font-family="Georgia, serif" font-size="174" font-weight="700" fill="#fff9ed">FREGE</text>
+  <text x="106" y="430" font-family="Georgia, serif" font-size="174" font-weight="700" fill="#ffc7df">GEACH</text>
+  <text x="1132" y="608" font-family="Arial, sans-serif" font-size="26" letter-spacing="8" fill="#3b185f">CONTEÚDO</text>
+  <text x="1132" y="644" font-family="Arial, sans-serif" font-size="26" letter-spacing="8" fill="#3b185f">FORÇA</text>
+  <text x="1132" y="680" font-family="Arial, sans-serif" font-size="26" letter-spacing="8" fill="#3b185f">VALIDADE</text>
+  <path d="M768 275 C838 203 929 204 995 265" fill="none" stroke="#f8bf28" stroke-width="14"/>
+  <path d="M778 425 C851 500 947 510 1030 454" fill="none" stroke="#f48140" stroke-width="14"/>
+  <circle cx="913" cy="349" r="58" fill="#fff9ed"/>
+  <circle cx="913" cy="349" r="22" fill="#ed2426"/>
+</svg>
