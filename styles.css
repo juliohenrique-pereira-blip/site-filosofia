@@ -133,7 +133,11 @@ details li { margin-bottom: 5px; }
 .teaching-info p { margin: 0; color: #514a4d; font-size: 14px; }
 .teaching-info .action-link { display: inline-block; margin-top: 14px; color: var(--purple); font: 10px var(--mono); }
 
-.services { background: #fffaf2; border-top: 1px solid var(--line); }
+.services {
+  background: var(--pink);
+  border-top: 1px solid var(--purple);
+  border-bottom: 1px solid var(--purple);
+}
 .services-head { align-items: start; }
 .services-head h2 { max-width: 780px; }
 .service-intro { max-width: 850px; margin: -19px 0 44px; color: #51494e; font: 450 21px/1.35 var(--serif); letter-spacing: -.3px; }
