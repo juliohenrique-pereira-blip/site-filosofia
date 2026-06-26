@@ -46,7 +46,7 @@ h3 { margin: 0; font-size: 30px; }
 .menubtn { display: none; border: 0; background: none; color: var(--ink); font-size: 12px; cursor: pointer; }
 .mobile-nav { display: grid; padding: 0 0 18px; gap: 10px; }
 .mobile-nav a { color: #584f55; font-size: 14px; }
-
+.mobile-nav[hidden] { display: none; }
 .hero { position: relative; overflow: hidden; padding: 90px 0 0; color: var(--cream); background: var(--purple-dark); }
 .hero::before { content: ""; position: absolute; width: 47vw; height: 47vw; min-width: 470px; min-height: 470px; top: -29vw; right: -11vw; border-radius: 50%; background: var(--red); }
 .hero::after { content: ""; position: absolute; width: 260px; height: 260px; bottom: -155px; left: 43%; border: 36px solid var(--yellow); border-radius: 50%; }
