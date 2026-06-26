@@ -36,7 +36,7 @@ h1 { margin: 0; font-size: clamp(63px, 8vw, 118px); }
 h2 { margin: 0; font-size: clamp(43px, 5vw, 70px); }
 h3 { margin: 0; font-size: 30px; }
 
-.topbar { position: sticky; top: 0; z-index: 50; border-bottom: 1px solid rgba(37,29,40,.13); background: rgba(255,249,237,.94); backdrop-filter: blur(12px); }
+.topbar { position: relative; top: 0; z-index: 50; border-bottom: 1px solid rgba(37,29,40,.13); background: rgba(255,249,237,.94); backdrop-filter: blur(12px); }
 .navrow { min-height: 72px; display: flex; align-items: center; gap: 15px; }
 .brandmark { display: grid; place-items: center; width: 35px; height: 35px; border-radius: 50%; color: var(--cream); background: var(--purple); font: 10px var(--mono); }
 .brand { margin-right: auto; font: 500 15px var(--serif); }
